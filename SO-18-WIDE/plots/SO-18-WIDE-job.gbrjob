@@ -7,20 +7,20 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.9)-1"
     },
-    "CreationDate":  "2021-09-05T15:11:22+02:00"
+    "CreationDate":  "2021-09-05T15:08:55+02:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "SOIC-16",
-      "GUID": "534f4943-2d31-4362-9e6b-696361645f70",
+      "Name": "SO-18",
+      "GUID": "534f2d31-382e-46b6-9963-61645f706362",
       "Revision": "rev?"
     },
     "Size":
     {
-      "X": 17.830,
-      "Y": 22.910
+      "X": 0.000,
+      "Y": 0.000
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
@@ -32,53 +32,53 @@
       "PadToPad":  0.200,
       "PadToTrack":  0.200,
       "TrackToTrack":  0.200,
-      "MinLineWidth":  0.500
+      "MinLineWidth":  0.250
     }
   ],
   "FilesAttributes":
   [
     {
-      "Path":  "SOIC-16-F_Cu.gbr",
+      "Path":  "SO-18-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SOIC-16-B_Cu.gbr",
+      "Path":  "SO-18-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SOIC-16-F_Paste.gbr",
+      "Path":  "SO-18-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SOIC-16-B_Paste.gbr",
+      "Path":  "SO-18-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SOIC-16-F_SilkS.gbr",
+      "Path":  "SO-18-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SOIC-16-B_SilkS.gbr",
+      "Path":  "SO-18-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "SOIC-16-F_Mask.gbr",
+      "Path":  "SO-18-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "SOIC-16-B_Mask.gbr",
+      "Path":  "SO-18-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "SOIC-16-Edge_Cuts.gbr",
+      "Path":  "SO-18-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }

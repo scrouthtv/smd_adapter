@@ -1,6 +1,7 @@
 # Generic Adapters for SMD to THT
 
- - SOIC-16
+ - SOIC-16 -- small version
+ - SOIC-18 -- wide version
  - SC-70-6
 
 Also some plugs
