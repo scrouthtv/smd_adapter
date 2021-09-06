@@ -8,6 +8,10 @@
 ## SC-70-6
 ![](./SC-70-6/SC-70-6-brd.webp)
 
+## SON10
+Mostly used by european companies as the step is 1mm (I guess).
+![](./SON10/SON10-brd.webp)
+
 # Plugs
 ## MQ172 3-pin
 ![](./MQ172/MQ172-brd.webp)
