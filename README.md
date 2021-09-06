@@ -1,4 +1,5 @@
 # Generic Adapters for SMD to THT
+All SMD adapters are for 2.54mm header
 
 ## SOIC-16 -- small version
 ![](./SOIC-16/SOIC-16-brd.webp)
